@@ -1,1 +1,2 @@
-# custom-float
+# Custom float class using boolean arithmetic
+This project involves reimplementing the float class with a customizable number of bits using boolean arithmetic. I designed this project because I needed a numerical type with an adjustable level of precision and scale for high precision computing tasks. I then discovered the existence of the native decimal class making this a very redundant but helpful learning experience. I am an idiot.
